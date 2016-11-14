@@ -214,7 +214,7 @@
     <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
     <JobCategory>Information Technology</JobCategory>
     <RequisitionPosition>PORTFOLIO MGR</RequisitionPosition>
-    <RequisitionDisplayJobTitle>IT Portfolio Manager ? Home First Agency - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionDisplayJobTitle>IT Portfolio Manager � Home First Agency - Maryville&amp;#44; TN</RequisitionDisplayJobTitle>
     <RequisitionAddress1>5000 CLAYTON RD</RequisitionAddress1>
     <RequisitionAddress2></RequisitionAddress2>
     <RequisitionCity>MARYVILLE</RequisitionCity>
@@ -3551,5 +3551,37 @@
     <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
     <DisplayCity>500 Alcoa &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
     <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=405</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>VANDERBILT</RequisitionDivision>
+    <RequisitionID>req512</RequisitionID>
+    <RequisitionLocation>HOME-HOME OFFICE</RequisitionLocation>
+    <JobCategory>Mortgage and Loan Servicing</JobCategory>
+    <RequisitionPosition>VMF AR - POD5/TM1 LB/CLSD</RequisitionPosition>
+    <RequisitionDisplayJobTitle>VMF Account Representative VAR014</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>500 Alcoa Trail</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>MARYVILLE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37804</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>UPTON&amp;#44; MARY</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>500 Alcoa Trail &amp;#44;MARYVILLE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=512</JobURL>
+  </Job>
+  <Job>
+    <RequisitionDivision>RETAIL</RequisitionDivision>
+    <RequisitionID>req513</RequisitionID>
+    <RequisitionLocation>00887-CLAYTON HOMES #887</RequisitionLocation>
+    <JobCategory></JobCategory>
+    <RequisitionPosition>SALES PROFESSIONAL</RequisitionPosition>
+    <RequisitionDisplayJobTitle>Clayton Homes Sales Professional - East Ridge&amp;#44; TN</RequisitionDisplayJobTitle>
+    <RequisitionAddress1>5501 RINGGOLD ROAD</RequisitionAddress1>
+    <RequisitionAddress2></RequisitionAddress2>
+    <RequisitionCity>EAST RIDGE</RequisitionCity>
+    <RequisitionState>TN</RequisitionState>
+    <RequisitionPostalCode>37412</RequisitionPostalCode>
+    <RequisitionPrimaryOwnerFullName>HAGOOD&amp;#44; MICHAEL</RequisitionPrimaryOwnerFullName>
+    <DisplayCity>5501 RINGGOLD ROAD &amp;#44;EAST RIDGE&amp;#44;TN</DisplayCity>
+    <JobURL>https://claytonhomes.csod.com/ats/careersite/JobDetails.aspx?id=513</JobURL>
   </Job>
 </Jobs>
